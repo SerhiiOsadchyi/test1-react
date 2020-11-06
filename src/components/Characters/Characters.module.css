@@ -1,0 +1,7 @@
+.content {
+    padding: 20px;
+    display: grid;
+    grid-template-areas:
+            'race race race race';
+    grid-template-columns: repeat(4, 250px);
+}
